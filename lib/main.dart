@@ -32,6 +32,8 @@ class _CurrencyConverterScreenState extends State<CurrencyConverterScreen> {
     'EUR': 0.85,
     'GBP': 0.75,
     'JPY': 110.0,
+    'CAD': 1.25,
+    'AUD': 1.35,
   };
 
   void _convertCurrency() {
